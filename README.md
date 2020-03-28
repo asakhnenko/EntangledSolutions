@@ -1,2 +1,2 @@
-# EntangledSolutions
-Personal growth from the exploration of quantum effects
+# Entangled solutions
+This repository is dedicated for personal exploration of quantum effects on computation.
