@@ -8,6 +8,6 @@ This repository is dedicated for personal exploration of quantum effects on comp
 - [ ] Variational Q Eigensolver
 - [ ] Solving linear systems of equations - HHL
 - [X] Hybrid Neural Networks
-- [ ] Probability approximation: Boltzmann, Born machines, variational autoencoders
+- [ ] Generative models: resticted Boltzmann, Born machines, variational autoencoders
 - [ ] Unsupervised learning
 - [ ] Quantum error correction: reinforcement learning
