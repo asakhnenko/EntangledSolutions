@@ -6,7 +6,7 @@ This repository is dedicated for personal exploration of quantum effects on comp
 - [X] Q Fourier Transform
 - [ ] Q Phase Estimation: e.g. pi factorisation, travelling salesman
 - [ ] Variational Q Eigensolver
-- [ ] Solving linear systems of equations
+- [ ] Solving linear systems of equations - HHL
 - [X] Hybrid Neural Networks
 - [ ] Probability approximation: Boltzmann, Born machines, variational autoencoders
 - [ ] Unsupervised learning
