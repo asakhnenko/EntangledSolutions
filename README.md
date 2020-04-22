@@ -20,6 +20,7 @@ Applications:
 - - [ ] Resticted Boltzmann
 - - [ ] Born machines
 - - [ ] Variational autoencoders
+- - [ ] Quantum GANs
 - [ ] Solving linear systems of equations - HHL
 - [ ] Unsupervised learning
 - [ ] Quantum error correction: reinforcement learning
