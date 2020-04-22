@@ -3,11 +3,23 @@
 This repository is dedicated for personal exploration of quantum effects on computation.
 
 ### Algorithms of interest
-- [X] Q Fourier Transform
-- [ ] Q Phase Estimation: e.g. pi factorisation, travelling salesman
-- [ ] Variational Q Eigensolver
-- [ ] Solving linear systems of equations - HHL
+- [X] Quantum fourier transform
+- [ ] Quantum phase estimation
+
+Applications:
+- - [ ] Pi factorisation
+- - [ ] Travelling salesman
+- [ ] Variational Quantum Eigensolver
+- - [X] Variational form
+
+Applications:
+- - [ ] Chemistry
+
 - [X] Hybrid Neural Networks
-- [ ] Generative models: resticted Boltzmann, Born machines, variational autoencoders
+- [ ] Generative models 
+- - [ ] Resticted Boltzmann
+- - [ ] Born machines
+- - [ ] Variational autoencoders
+- [ ] Solving linear systems of equations - HHL
 - [ ] Unsupervised learning
 - [ ] Quantum error correction: reinforcement learning
