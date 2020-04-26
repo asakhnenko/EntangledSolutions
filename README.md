@@ -8,11 +8,11 @@ This repository is dedicated for personal exploration of quantum effects on comp
 
 Applications:
 - - [ ] Pi factorisation
-- - [ ] Travelling salesman
 - [ ] Variational Quantum Eigensolver
 - - [X] Variational form
 
 Applications:
+- - [ ] Max cut / traveling salesman
 - - [ ] Chemistry
 
 - [X] Hybrid Neural Networks
