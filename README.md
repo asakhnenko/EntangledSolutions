@@ -23,5 +23,4 @@ Applications:
 - - [ ] Quantum GANs
 - [ ] Quantum Hopfield Networks
 - [ ] Solving linear systems of equations - HHL
-- [ ] Unsupervised learning
 - [ ] Quantum error correction: reinforcement learning
