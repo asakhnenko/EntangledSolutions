@@ -1,26 +1,3 @@
-# Entangled solutions
+## Variation Quantum Eigensolver
 
-This repository is dedicated for personal exploration of quantum effects on computation.
-
-### Algorithms of interest
-- [X] Quantum fourier transform
-- [ ] Quantum phase estimation
-
-Applications:
-- - [ ] Pi factorisation
-- [ ] Variational Quantum Eigensolver
-- - [X] Variational form
-
-Applications:
-- - [ ] Max cut / traveling salesman
-- - [ ] Chemistry
-
-- [X] Hybrid Neural Networks
-- [ ] Generative models 
-- - [ ] Resticted Boltzmann
-- - [ ] Born machines
-- - [ ] Variational autoencoders
-- - [ ] Quantum GANs
-- [ ] Quantum Hopfield Networks
-- [ ] Solving linear systems of equations - HHL
-- [ ] Quantum error correction: reinforcement learning
+The initial goal for VQE was to determine ground states of Hamiltonians (lowest eigenvalues), but it usage can be extended to minimization of objective functions.
