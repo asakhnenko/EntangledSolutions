@@ -1,26 +1,5 @@
-# Entangled solutions
+## Variation Quantum Eigensolver
 
-This repository is dedicated for personal exploration of quantum effects on computation.
+The initial goal for VQE was to determine ground states of Hamiltonians (lowest eigenvalues), but it usage can be extended to minimization of objective functions.
 
-### Algorithms of interest
-- [X] Quantum fourier transform
-- [ ] Quantum phase estimation
-
-Applications:
-- - [ ] Pi factorisation
-- [ ] Variational Quantum Eigensolver
-- - [X] Variational form
-
-Applications:
-- - [ ] Max cut / traveling salesman
-- - [ ] Chemistry
-
-- [X] Hybrid Neural Networks
-- [ ] Generative models 
-- - [ ] Resticted Boltzmann
-- - [ ] Born machines
-- - [ ] Variational autoencoders
-- - [ ] Quantum GANs
-- [ ] Quantum Hopfield Networks
-- [ ] Solving linear systems of equations - HHL
-- [ ] Quantum error correction: reinforcement learning
+One possible application of VQE is shown in `clustering_vqe.ipynb`, which uses Max-Cut Problem formulation to describe objective function for clustering task. The objective function is then mapped to Ising Hamiltonian that is fed to VQE algorithm.

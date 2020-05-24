@@ -12,7 +12,8 @@ Applications:
 - - [X] Variational form
 
 Applications:
-- - [ ] Max cut / traveling salesman
+- - [X] Max-Cut problem (clustering)
+- - [ ] Traveling salesman problem
 - - [ ] Chemistry
 
 - [X] Hybrid Neural Networks
