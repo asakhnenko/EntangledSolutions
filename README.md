@@ -19,9 +19,9 @@ Applications:
 - [X] Hybrid Neural Networks
 - [ ] Generative models 
 - - [ ] Resticted Boltzmann
-- - [ ] Born machines
+- - [X] Born machines
 - - [ ] Variational autoencoders
-- - [ ] Quantum GANs
+- - [X] Quantum GANs
 - [ ] Quantum Hopfield Networks
 - [ ] Solving linear systems of equations - HHL
 - [ ] Quantum error correction: reinforcement learning
